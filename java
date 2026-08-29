@@ -1,4 +1,4 @@
-Hello good morning
-x=70
+Hello shiva
+x=1000
 y=20
 
